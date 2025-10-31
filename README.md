@@ -1,18 +1,26 @@
-# Xuan Phat Truong
 
 Robotics & AI Researcher | Control Systems Enthusiast
 
 Department of Mechanical and Civil Engineer, Florida Institute of Technology
+
+Lab: [IPCL](https://sites.google.com/view/fit-ipcl/home)
 
 Email: phat.xuan.truong@gmail.com • [GitHub](https://github.com/phat-truongxuan) • [LinkedIn](https://www.linkedin.com/in/xuan-phat-truong-2545001a0/)
 
 ---
 # Publication
 
+**Upcoming: Safe Rocket Landing Using Lyapunov-based Reinforcement Learning. AIAA SCITECH 2024 Forum**
+
 **Truong, X. P., & Hong, S. H. (2024). Rough Terrain Path Planning for Autonomous Ground Robot. In AIAA SCITECH 2024 Forum (p. 2764).**
 [ DOI](https://doi.org/10.2514/6.2024-2764)
 
 **Truong, X. P., Jeon, H., Wang, Y., & Hong, S. H. (2025). Monitoring energy consumption for cyberattack detection in additive manufacturing systems. The International Journal of Advanced Manufacturing Technology, 1-17.**[ DOI](https://doi.org/10.1007/s00170-025-16551-2)
+
+---
+# Research Project
+
+**Stable Reinforcement Learning Control for Satellites with Learned Dynamics. Space Force (Air Force). PI: Seong Hyeon Hong**
 
 ---
 # Publication Demo
