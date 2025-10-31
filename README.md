@@ -18,6 +18,16 @@ Email: phat.xuan.truong@gmail.com • [GitHub](https://github.com/phat-truongxua
 **Truong, X. P., Jeon, H., Wang, Y., & Hong, S. H. (2025). Monitoring energy consumption for cyberattack detection in additive manufacturing systems. The International Journal of Advanced Manufacturing Technology, 1-17.**[ DOI](https://doi.org/10.1007/s00170-025-16551-2)
 
 ---
+
+# Work Experience
+
+**Robotics Software Engineer, Techtile / Goldbell Co., 2022**
+
+**Robotics Software Engineer, NextAMR / FPT Software, 2021 - 2022**
+    
+**Robotics Software Engineer, Emage Development, 2022 - 2021**
+
+---
 # Research Project
 
 **Stable Reinforcement Learning Control for Satellites with Learned Dynamics. Space Force (Air Force). PI: Seong Hyeon Hong**
