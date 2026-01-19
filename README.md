@@ -10,12 +10,14 @@ Email: phat.xuan.truong@gmail.com • [GitHub](https://github.com/phat-truongxua
 ---
 # Publication
 
-**Upcoming: Safe Rocket Landing Using Lyapunov-based Reinforcement Learning. AIAA SCITECH 2024 Forum**
+**Truong, X. P., & Hong, S. H. (2026). Safe Rocket Landing Using Lyapunov-Based Reinforcement Learning. In AIAA SCITECH 2026 Forum (p. 1588).**
+[ DOI](https://arc.aiaa.org/doi/abs/10.2514/6.2026-1588)
 
 **Truong, X. P., & Hong, S. H. (2024). Rough Terrain Path Planning for Autonomous Ground Robot. In AIAA SCITECH 2024 Forum (p. 2764).**
 [ DOI](https://doi.org/10.2514/6.2024-2764)
 
-**Truong, X. P., Jeon, H., Wang, Y., & Hong, S. H. (2025). Monitoring energy consumption for cyberattack detection in additive manufacturing systems. The International Journal of Advanced Manufacturing Technology, 1-17.**[ DOI](https://doi.org/10.1007/s00170-025-16551-2)
+**Truong, X. P., Jeon, H., Wang, Y., & Hong, S. H. (2025). Monitoring energy consumption for cyberattack detection in additive manufacturing systems. The International Journal of Advanced Manufacturing Technology, 1-17.**
+[ DOI](https://doi.org/10.1007/s00170-025-16551-2)
 
 ---
 # Research Project
@@ -33,9 +35,27 @@ Email: phat.xuan.truong@gmail.com • [GitHub](https://github.com/phat-truongxua
 **Robotics Software Engineer, Emage Development, 2022 - 2021**
 
 ---
-# Demo
+# Project
 
-## 1. Rough Terrain Path Planning for Autonomous Ground Robot
+## Lyapunov control for Reinforcement Learning Policy
+
+**a. Vertical Rocket landing**
+
+| Vanilla PPO | Lyapunov PPO |
+|:------:|:------:|
+| ![](images/landing_PPO.gif) | ![](images/landing_LPO.gif) |
+
+---
+
+**a. Quadrotor path tracking**
+
+| Vanilla PPO | Lyapunov PPO |
+|:------:|:------:|
+| ![](images/ppo_new.gif) | ![](images/lpo_new.gif) |
+
+---
+
+## Rough Terrain Path Planning for Autonomous Ground Robot
 
 **The system is setup on ROS and ROS2, planner map displayed on RViz, simulation built on Gazebo. The robot uses differential drive (4 wheeled drive) and tracks the planned path using PID controller**
 
@@ -52,10 +72,7 @@ Email: phat.xuan.truong@gmail.com • [GitHub](https://github.com/phat-truongxua
 |:------:|:------:|
 | ![](images/with_terrainplanner.png) | ![](images/with_terrainplanner.gif) |
 
-
-
 ---
-# Side Project
 
 ## Neural Network tuning using Genetic Algorithm
 
