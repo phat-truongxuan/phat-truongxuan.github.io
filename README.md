@@ -8,7 +8,7 @@ Lab: [IPCL](https://sites.google.com/view/fit-ipcl/home)
 Email: phat.xuan.truong@gmail.com • [GitHub](https://github.com/phat-truongxuan) • [LinkedIn](https://www.linkedin.com/in/xuan-phat-truong-2545001a0/)
 
 ---
-# Publication
+# Publications
 
 **Truong, X. P., & Hong, S. H. (2026). Safe Rocket Landing Using Lyapunov-Based Reinforcement Learning. In AIAA SCITECH 2026 Forum (p. 1588).**
 [ DOI](https://arc.aiaa.org/doi/abs/10.2514/6.2026-1588)
@@ -35,11 +35,11 @@ Email: phat.xuan.truong@gmail.com • [GitHub](https://github.com/phat-truongxua
 **Robotics Software Engineer, Emage Development, 2022 - 2021**
 
 ---
-# Project
+# Projects
 
 ## Lyapunov control for Reinforcement Learning Policy
 
-**a. Vertical Rocket landing**
+**a. Vertical rocket landing**
 
 | Vanilla PPO | Lyapunov PPO |
 |:------:|:------:|
