@@ -37,7 +37,15 @@ Email: phat.xuan.truong@gmail.com • [GitHub](https://github.com/phat-truongxua
 ---
 # Projects
 
-## Lyapunov control for Reinforcement Learning Policy
+## Multi-Gait Quadruped Locomotion via IK-Guided Foot Tracking
+
+| Trot | Pace | Bound |
+|:------:|:------:|:------:|
+| ![](images/trot_demo.gif) | ![](images/pace_demo.gif) | ![](images/bound_demo.gif) |
+
+---
+
+## Stability Control with Lyapunov Reinforcement Learning Policy
 
 **a. Vertical rocket landing**
 
@@ -47,7 +55,7 @@ Email: phat.xuan.truong@gmail.com • [GitHub](https://github.com/phat-truongxua
 
 ---
 
-**a. Quadrotor path tracking**
+**b. Quadrotor path tracking**
 
 | Vanilla PPO | Lyapunov PPO |
 |:------:|:------:|
