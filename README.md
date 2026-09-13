@@ -5,7 +5,7 @@ Department of Mechanical and Civil Engineer, Florida Institute of Technology
 
 Lab: [IPCL](https://sites.google.com/view/fit-ipcl/home)
 
-Email: phat.xuan.truong@gmail.com • [GitHub](https://github.com/phat-truongxuan) • [LinkedIn](https://www.linkedin.com/in/xuan-phat-truong-2545001a0/)
+Email: pat.main.mail@gmail.com • [GitHub](https://github.com/phat-truongxuan) • [LinkedIn](https://www.linkedin.com/in/pat-truong-2545001a0/)
 
 ---
 # Publications
