@@ -37,7 +37,7 @@ Email: pat.main.mail@gmail.com • [GitHub](https://github.com/phat-truongxuan) 
 ---
 # Projects
 
-## Multi-Gait Quadruped Locomotion via IK-Guided Foot Tracking
+## Multi-Gait Quadruped Locomotion via IK-Guided Foot Tracking Reinforcement Learning
 
 | Trot | Pace | Bound |
 |:------:|:------:|:------:|
@@ -60,6 +60,14 @@ Email: pat.main.mail@gmail.com • [GitHub](https://github.com/phat-truongxuan) 
 | Vanilla PPO | Lyapunov PPO |
 |:------:|:------:|
 | ![](images/ppo_new.gif) | ![](images/lpo_new.gif) |
+
+---
+
+## Franka ROS + trajectory smoothing using cubic spline interpolation (libfranka)
+
+| Rviz (pick and place) | Hardware (pick and place) | Hardware (trajectory smoothing) |
+|:------:|:------:|:------:|
+| ![](images/franka_rviz.gif) | ![](images/franka_hw.gif) | ![](images/franka_smooth_trajectory.gif) |
 
 ---
 
