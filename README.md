@@ -28,6 +28,8 @@ Email: pat.main.mail@gmail.com • [GitHub](https://github.com/phat-truongxuan) 
 
 # Work Experience
 
+**Reinforcement Learning Engineer, VinDynamics, 2026**
+
 **Robotics Software Engineer, Techtile / Goldbell Co., 2022**
 
 **Robotics Software Engineer, NextAMR / FPT Software, 2021 - 2022**
